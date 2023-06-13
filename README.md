@@ -3,7 +3,7 @@ Data analytics project conducted in python as part of the CareerFoundry Data Ana
 
 # Objective
 
-Conduct initial and exploratory analysis for Instacart, an online grocery store that operates by an app. The analysis is to get insight into Instacart sales patterns, create profiles for different type of shopers, and create targeted marketing campaigns for each group.
+Conduct initial and exploratory analysis for Instacart, an online grocery store that operates by an app. The analysis is to get insight into Instacart sales patterns, create profiles for different types of shoppers, and create targeted marketing campaigns for each group.
 
 # Data
 
@@ -12,4 +12,4 @@ Opensource data from 2017 made available by Instacart, [link](https://www.instac
 # Tools
 
 The project used Excel and Python.
-Libraries in Python used where Pandas, Numpy, Seaborn, Matplotlib, Scipy.
+Libraries in Python used were: Pandas, Numpy, Seaborn, Matplotlib, Scipy.
